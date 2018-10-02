@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#9E9E9E</color>
+    <color name="primary_dark">#616161</color>
+    <color name="primary_light">#F5F5F5</color>
+    <color name="accent">#9E9E9E</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="Bprimary">#607D8B</color>
+    <color name="Bprimary_dark">#455A64</color>
+    <color name="Bprimary_light">#CFD8DC</color>
+    <color name="Baccent">#607D8B</color>
+    <color name="Bprimary_text">#212121</color>
+    <color name="Bsecondary_text">#757575</color>
+    <color name="Bicons">#FFFFFF</color>
+    <color name="Bdivider">#BDBDBD</color>
+
+    <color name="Tprimary">#009688</color>
+    <color name="Tprimary_dark">#00796B</color>
+    <color name="Tprimary_light">#6ccac1</color>
+    <color name="Taccent">#009688</color>
+    <color name="Tprimary_text">#212121</color>
+    <color name="Tsecondary_text">#757575</color>
+    <color name="Ticons">#FFFFFF</color>
+    <color name="Tdivider">#BDBDBD</color>
+
+    <color name="Pprimary">#673AB7</color>
+    <color name="Pprimary_dark">#512DA8</color>
+    <color name="Pprimary_light">#D1C4E9</color>
+    <color name="Paccent">#7C4DFF</color>
+    <color name="Pprimary_text">#212121</color>
+    <color name="Psecondary_text">#757575</color>
+    <color name="Picons">#FFFFFF</color>
+    <color name="Pdivider">#BDBDBD</color>
+
+    <color name="Blue">#3700B3</color>
+
+
+
+    <color name="red">#af0a43</color>
+    <color name="dark_red">#5d0e29</color>
+    <color name="gray">#464445</color>
+    <color name="bangi">#eea990</color>
+    <color name="light_maroon">#aa6f73	</color>
+    <color name="black">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="dark_blue">#091148</color>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_cancel"
+        android:title="@string/merge"
+        android:icon="@drawable/ic_clear_selection"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_item_goto_sound_lab"
+        android:title="My Sounds"
+
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu_item_play_chain_preview"
+        android:title="@string/play"
+        android:enabled="true"
+        android:icon="@drawable/ic_play_chain_preview_menu"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_item_share_button"
+        android:title="@string/share"
+        android:enabled="true"
+        android:icon="@drawable/ic_share_icon_white"
+        app:showAsAction="always"/>
+
+</menu>

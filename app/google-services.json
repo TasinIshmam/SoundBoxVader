@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165188901610",
+    "firebase_url": "https://sefatullah-f7c8f.firebaseio.com",
+    "project_id": "sefatullah-f7c8f",
+    "storage_bucket": "sefatullah-f7c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165188901610:android:6b637a885de406a1",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.beatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165188901610-7fplaop2uluqveembi7uujtni6vheks6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.beatbox",
+            "certificate_hash": "9309d5456292e21e5e68ae8286edff43a73f0c8f"
+          }
+        },
+        {
+          "client_id": "165188901610-ulf5c091mbu2bjk4e8at0h0rj24qqj9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnaMkdscWut-WzVgstRhwnQhUCPSSxpxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165188901610-ulf5c091mbu2bjk4e8at0h0rj24qqj9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

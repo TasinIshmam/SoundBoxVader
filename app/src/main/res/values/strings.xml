@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SoundBox</string>
+    <string name="enter_chain_name">Enter name of creation</string>
+    <string name="chain_added_confirm">Your creation has been added!</string>
+    <string name="delete_dialog_title">Are you sure you want to delete?</string>
+    <string name="merge">Merge</string>
+    <string name="chain_instructions">Select atleast one sounds to merge</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="chaining_instructions">Create Your Own Insults By
+        Long Pressing Sounds in Sound Board
+        Save by clicking Tick Button At Bottom</string>
+</resources>
